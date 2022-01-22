@@ -1,7 +1,7 @@
 # 22 State Homework: Redux Store
 
 ## Project Detials
-To refactor a a e-commerce platform that is currently using React’s Context API to use Redux
+To refactor a e-commerce platform that is currently using React’s Context API to use Redux
 
 # Why
 To demonstrate profeciency with React and an understanding of the Global context API by changing it to Redux. 
