@@ -20,6 +20,7 @@ import Signup from './pages/Signup';
 import Nav from './components/Nav';
 import Success from './pages/Success';
 import OrderHistory from './pages/OrderHistory';
+// Importing our theme provider which will make our global state available to child components
 import  StoreProvider  from "./utils/StoreContext";
 
 const httpLink = createHttpLink({
